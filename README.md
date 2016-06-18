@@ -8,3 +8,7 @@ To use this library I programmed a wrapper class, which is available in this Git
 Often developers must code programs without the a real infrastructure. In our case a change request requires an interface to a PDF converter solution, which converts e-mail attachments from CRM Electronic Response Management System (ERMS) to PDF files, to archive them. With this way we have the possibility to simulate a PDF converter solution roughly, via Debenu Quick Library Lite. Good enough to build the interface basically and to get first experiences for this kind of development. So the developers can test their programs much better.
 
 Thanks to Debenu company.
+
+# More Examples
+
+[How To Read Data From a PDF Formular and Use it Inside ABAP](http://scn.sap.com/docs/DOC-65423)
